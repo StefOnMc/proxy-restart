@@ -1,4 +1,4 @@
-module github.com/mymaqc/proxy
+module github.com/Melotik/proxy-restart
 
 go 1.18
 
