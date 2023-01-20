@@ -1,4 +1,4 @@
-module github.com/Melotik/proxy-restart
+module proxy-restart
 
 go 1.18
 
